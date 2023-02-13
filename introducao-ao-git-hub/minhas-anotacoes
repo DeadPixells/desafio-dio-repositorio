@@ -1,3 +1,17 @@
 Link para download do git - https://git-scm.com/downloads
 
 O Git Bash e um terminal extendido para otimizar o uso do git.
+
+git status - mostra o status dos arquivos na pasta
+
+git add . - para adicionar os arquivos modificados ou criados ao git
+
+git commit -m "o comentário sobre qualquer alteração no projeto"
+
+git push origin main - faz o push para o diretório do GitHub
+
+
+
+
+
+
